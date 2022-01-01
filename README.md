@@ -5,8 +5,8 @@ The purpose of regression analysis is to determine the impact of a combination o
 ## Types of Regression Models
 Many regression models are available to aid in the prediction. Linear Regression, Logistic Regression, Lasso Regression, Ridge Regression, Polynomial Regression, and others are examples. In this work, we used four different types of regression models. They are explained further below.
 ### Linear regression
-This is the most basic of all models. The equation below is used to denote the linear regression model.
-y = mx + c + e
-where m = slope of the line
-      c = intercept
-      e = error in the model
+This is the most basic of all models. The equation below is used to denote the linear regression model.</br>
+y = mx + c + e </br>
+where m = slope of the line </br>
+      c = intercept </br>
+      e = error in the model </br>
