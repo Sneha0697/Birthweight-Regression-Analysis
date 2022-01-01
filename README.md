@@ -10,3 +10,5 @@ y = mx + c + e </br>
 where m = slope of the line </br>
       c = intercept </br>
       e = error in the model </br>
+A standard curve for a linear regression model is shown in the graph below.
+Here the predictor error is defined as the difference between the observed and predicted values.
