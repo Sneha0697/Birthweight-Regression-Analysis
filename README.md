@@ -12,7 +12,9 @@ y = mx + c + e </br>
 where m = slope of the line </br>
       c = intercept </br>
       e = error in the model </br>, here the predictor error is defined as the difference between the observed and predicted values.
-The error in the OLS model is simply squared, i.e., e2, then added to yield the overall error. This is done to lessen the overall error. Vertical lines in the graph below represent the error (e).
+The error in the OLS model is simply squared, i.e., e2, then added to yield the overall error. This is done to lessen the overall error.</br>
+<img src="Images/OLS Model.PNG?raw=true"/>
+Vertical lines in the graph below represent the error (e).
 A standard curve for a linear regression model
 
  I have classified all of the variables in the project as continuous or countable. The linear regression model has then applied to the group of continuous variables. After a few regressions with various combinations of those variables, the final set of variables with the highest R- value has been chosen to utilize in further regression models.
