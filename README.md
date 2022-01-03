@@ -13,7 +13,7 @@ where m = slope of the line </br>
       c = intercept </br>
       e = error in the model </br>, here the predictor error is defined as the difference between the observed and predicted values.
 The error in the OLS model is simply squared, i.e., e2, then added to yield the overall error. This is done to lessen the overall error.</br>
-<img src="Images/Linear regression.PNG?raw=true"/> </br>
+<img src="Images/Linear regression.png?raw=true"/> </br>
 A standard curve for a linear regression model</br>
 <img src="Images/OLS Model.PNG?raw=true"/> </br>
 Vertical lines in the graph below represent the error (e).</br>
@@ -24,13 +24,13 @@ Vertical lines in the graph below represent the error (e).</br>
 Least Absolute Shrinkage and Selection Operator is abbreviated as Lasso. In order to minimize prediction error, this model employs the shrinking strategy. It imposes a limit on the model parameters, causing some variables' regression co-efficient to dwindle towards zero. Shrinkage can alternatively be defined as the data variables shrinking towards their central points, such as the mean.
 The Lasso Regression technique is represented by the following equation:
 N^{-1}Σ^{N}_{i=1}f(x_{i}, y_{I}, α, β) </br>
-<img src="Images/Lasso Regression.PNG?raw=true"/> </br>
+<img src="Images/Lasso Regression.png?raw=true"/> </br>
 A sample curve for a lasso regression model</br>
 ### ARD Regression Model
 The Bayesian Inference Method underpins the Automatic Relevance Determination (ARD) Model. The ARDRegression considers the model weights to be Gaussian and iteratively calculates the lambda and alpha parameters. Alpha() is a hyperparameter vector that specifies how far each weight can deviate from zero.</br>
-<img src="Images/ARD Model.PNG?raw=true"/> </br>
+<img src="Images/ARD Model.png?raw=true"/> </br>
 A sample ARD curve in comparison to the OLS curve</br>
 ## Conclusion
 After dividing the data into trial and test sets and fitting those sets into several regression models, the Lasso Regression Model showed to be the best model for the given data, with higher training and testing scores and the smaller test gap.</br>
-<img src="Images/Regression Models Output Table.PNG?raw=true"/> </br>
+<img src="Images/Regression Models Output Table.png?raw=true"/> </br>
 Results Table</br>
