@@ -1,7 +1,7 @@
 # Birthweight-Regression-Analysis
 Determine the best regression model for predicting the behavior of explanatory variables such as parent age, education, alcohol consumption, and so on, in relation to the dependent variable, neonate weight.
 ## Introduction
-<img src="Images/Model summary.PNG?raw=true"/>
+<img src="Images/Model summary.jpeg?raw=true"/>
 The purpose of regression analysis is to determine the impact of a combination of explanatory variables on the dependent variable. Predicting the price of a house based on current market conditions, geography, demand, and supply, for example. The R-value indicates the extent to which the explanatory variables influence the dependent variable. In a given circumstance, an analyst's job is to anticipate which experimental variables will have the strongest influence on the determining variable and to do so with the least amount of error. As a result, we employ trial and error to select the final set of variables that influence the determining factor to the maximum extent possible. In addition, multiple regression models are used to assess and improve prediction accuracy. In this project, we will use this approach to investigate how various parental characteristics influence the weight of a newborn.
 
 ## Types of Regression Models
